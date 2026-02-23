@@ -1,11 +1,7 @@
-{"name": "rage-mp-dumper",
-  "version": "1.0.0",
-  "description": "A Rage Multiplayer Dumper",
-  "main": "index.js",
+{
   "scripts": {
-    "test": "echo 'Error: no test specified' && exit 1"
-  },
-  "keywords": [],
-  "author": "ghostmarcos11-dev",
-  "license": "ISC"
+    "start": "node src/index.js",
+    "build": "echo 'Build complete'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
